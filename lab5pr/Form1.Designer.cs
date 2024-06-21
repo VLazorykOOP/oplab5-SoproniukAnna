@@ -10,9 +10,7 @@
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
                 components.Dispose();
-            }
             base.Dispose(disposing);
         }
 
@@ -42,6 +40,7 @@
             this.textBoxOrder.Name = "textBoxOrder";
             this.textBoxOrder.Size = new System.Drawing.Size(116, 23);
             this.textBoxOrder.TabIndex = 1;
+            this.textBoxOrder.Text = "4";
             // 
             // pictureBoxFractal
             // 
