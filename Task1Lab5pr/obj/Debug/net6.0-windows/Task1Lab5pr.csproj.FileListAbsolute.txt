@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.Form1.resources
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.AssemblyInfo.cs
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\bin\Debug\net6.0-windows\Task1Lab5pr.exe
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\bin\Debug\net6.0-windows\Task1Lab5pr.deps.json
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\bin\Debug\net6.0-windows\Task1Lab5pr.runtimeconfig.json
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\bin\Debug\net6.0-windows\Task1Lab5pr.dll
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\bin\Debug\net6.0-windows\Task1Lab5pr.pdb
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.dll
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\refint\Task1Lab5pr.dll
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.pdb
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\Task1Lab5pr.genruntimeconfig.cache
+C:\Users\User\source\repos\oplab5-SoproniukAnna\Task1Lab5pr\obj\Debug\net6.0-windows\ref\Task1Lab5pr.dll

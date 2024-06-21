@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lab5pr"
+    "\\lab5pr",
+    "\\Task1Lab5pr"
   ],
-  "SelectedNode": "\\lab5pr.sln",
+  "SelectedNode": "\\lab5pr\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
